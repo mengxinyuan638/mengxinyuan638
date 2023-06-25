@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div>
-<img height="235px" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mengxinyuan638"/><img height="235px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=mengxinyuan638"/>
+<img height="235px" src="https://readmestats.999857.xyz/api/top-langs/?username=mengxinyuan638"/><img height="235px" src="https://readmestats.999857.xyz/api?username=mengxinyuan638"/>
 </div>
 <br/>
 😊Nice!
