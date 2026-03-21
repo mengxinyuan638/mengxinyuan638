@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <br/>
 😊Nice!
 <br/>
-My<img src="https://profile-counter.glitch.me/mengxinyuan638/count.svg"/>visitors
+My<img src="(https://komarev.com/ghpvc/?username=mengxinyuan638"/>visitors
