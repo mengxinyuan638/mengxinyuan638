@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python and web technology
 - 🏠 I’m studying in China
 <hr/>
-
 <div>
-<img height="235px" src="https://readmestats.999857.xyz/api/top-langs/?username=mengxinyuan638"/><img height="235px" src="https://readmestats.999857.xyz/api?username=mengxinyuan638"/>
+<img height="235px" src="https://readmestats.999857.xyz/api?username=mengxinyuan638"/>
 </div>
 <br/>
-😊Nice!
+Hi! here👋
 <br/>
-Myvisitors
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<img src="https://komarev.com/ghpvc/?username=mengxinyuan638" />
