@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Python and web technology
+- 🔭 I’m currently working on HarmonyOS
 - 🏠 I’m studying in China
 <hr/>
 <div>
