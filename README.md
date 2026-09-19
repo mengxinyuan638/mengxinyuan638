@@ -9,6 +9,7 @@
 ## 🧐 关于我
 
 - 🔭 正在开发 **HarmonyOS** 应用
+- 🔧 有嵌入式开发 / **RT-Thread** 相关经验
 - 🏫 坐标中国，在校学生
 - 🌱 正在深耕 ArkTS / ArkUI
 - 💬 欢迎交流鸿蒙开发~
@@ -24,6 +25,8 @@
   <img src="https://img.shields.io/badge/ArkTS-007DFF?style=flat-square" alt="ArkTS" />
   <img src="https://img.shields.io/badge/ArkUI-9B6BF3?style=flat-square" alt="ArkUI" />
   <img src="https://img.shields.io/badge/DevEco_Studio-0B6CFF?style=flat-square" alt="DevEco Studio" />
+  <img src="https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F-2EA043?style=flat-square" alt="嵌入式" />
+  <img src="https://img.shields.io/badge/RT--Thread-3BA757?style=flat-square" alt="RT-Thread" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
